@@ -1,4 +1,4 @@
-# demorepo1
+# demo-repo
 demo repository
 <br>
 Author - Namirtha
